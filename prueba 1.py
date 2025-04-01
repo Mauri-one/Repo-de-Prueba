@@ -4,4 +4,4 @@ p1= input ("¿Todo bien ?: ")
 if p1 =="si":
     print ("Excelente Bro!")
 else: 
-    print ("Que mal, espero que se solucione pronto")
+    print ("Que mal, espero que se solucione prontooooooooooo")
